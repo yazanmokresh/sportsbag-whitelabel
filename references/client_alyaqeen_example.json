@@ -1,0 +1,59 @@
+{
+  "name": "اليقين للصرافة والحوالات",
+  "nameEn": "Al-Yaqeen Exchange",
+  "tagline": "الشريك الموثوق للصرافة والحوالات المالية في حلب",
+  "industry": "exchange",
+  "country": "سوريا",
+  "city": "حلب",
+  "address": "حلب، سوريا",
+  "foundedYear": "2018",
+  "phone": "+963 21 000 0000",
+  "email": "info@alyaqeen-exchange.com",
+  "website": "https://alyaqeen-exchange.com",
+  "primary_color": "#1e40af",
+  "secondary_color": "#0f172a",
+  "accent_color": "#f59e0b",
+  "dashboard_focus": "accounting",
+  "modules": {
+    "inventory": false,
+    "pos": false,
+    "accounting": true,
+    "hr": true,
+    "ecommerce": false,
+    "shipments": false,
+    "campaigns": false,
+    "loyalty": false,
+    "exchange": true,
+    "pharmacy": false,
+    "restaurant": false
+  },
+  "branches": [
+    { "id": 1, "name": "حلب المركز", "city": "حلب", "type": "branch" },
+    { "id": 2, "name": "حلب الفرع 2", "city": "حلب", "type": "branch" }
+  ],
+  "currency": {
+    "primary": "SYP",
+    "primarySymbol": "ل.س",
+    "secondary": "USD",
+    "secondarySymbol": "$",
+    "showExchangeRate": true
+  },
+  "dashboard_widgets": [
+    "daily_transactions",
+    "exchange_rates",
+    "currency_balance",
+    "transfers_today",
+    "profit_today",
+    "branch_comparison"
+  ],
+  "sidebar_sections": [
+    "dashboard",
+    "accounting",
+    "exchange_operations",
+    "transfers",
+    "customers",
+    "employees",
+    "reports",
+    "settings"
+  ]
+}

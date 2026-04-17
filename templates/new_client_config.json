@@ -1,0 +1,38 @@
+{
+  "_description": "قالب إعدادات عميل جديد لـ White-Label — عدّل هذا الملف ثم شغّل customize.py",
+  "name": "اسم الشركة بالعربي",
+  "nameEn": "Company Name in English",
+  "tagline": "الشعار التسويقي للشركة",
+  "industry": "retail_sports",
+  "city": "المدينة",
+  "country": "سوريا",
+  "foundedYear": "2024",
+  "primary_color": "#22c55e",
+  "dashboard_focus": "sales",
+  "branches": [
+    { "name": "الفرع الرئيسي", "city": "المدينة" }
+  ],
+  "modules": {
+    "cashier": true,
+    "inventory": true,
+    "accounting": true,
+    "orders": true,
+    "shipments": true,
+    "employees": true,
+    "partners": true,
+    "analytics": true,
+    "ai_assistant": true,
+    "barcode_generator": true,
+    "geo_attendance": true,
+    "exchange": false,
+    "pharmacy": false,
+    "restaurant": false
+  },
+  "contact": {
+    "whatsapp": "",
+    "phone": "",
+    "email": "",
+    "facebook": "",
+    "instagram": ""
+  }
+}

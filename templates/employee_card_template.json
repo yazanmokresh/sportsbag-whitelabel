@@ -1,0 +1,46 @@
+{
+  "_description": "قالب بطاقة الموظف الشاملة — استخدم هذا القالب عند إنشاء بطاقة موظف جديدة",
+  "employeeId": null,
+  "photoUrl": null,
+  "idCardUrl": null,
+  "nationalId": "",
+  "fullName": "",
+  "position": "",
+  "branchId": null,
+  "hireDate": "",
+  "salary": 0,
+  "salaryAdjustments": [],
+  "profitPercent": 0,
+  "profitBasis": "net",
+  "monthlyRating": null,
+  "maxDebtLimit": 0,
+  "whatsappNumber": "",
+  "emergencyContact": "",
+  "address": "",
+  "notes": "",
+  "achievements": [
+    {
+      "title": "",
+      "description": "",
+      "date": "",
+      "reward": ""
+    }
+  ],
+  "negativeAchievements": [
+    {
+      "title": "",
+      "description": "",
+      "severity": 5,
+      "date": "",
+      "color": "#ef4444",
+      "fontSize": 14
+    }
+  ],
+  "customFields": [
+    {
+      "key": "اسم الحقل",
+      "value": "قيمة الحقل",
+      "type": "text"
+    }
+  ]
+}
